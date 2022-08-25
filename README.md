@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=it-corporate-kisel&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=github_dark" /> 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it-corporate-kisel&layout=compact&count_private=true&theme=github_dark" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=it-corporate-kisel&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
